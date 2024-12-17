@@ -59,8 +59,8 @@ To ensure the application starts automatically on boot, you can create a systemd
    ExecStart=/usr/bin/uvicorn main:app --host 0.0.0.0 --port 8899
    WorkingDirectory=/path/to/mStatAPI
    Restart=always
-   User=your-username
-   Group=your-usergroup
+   User=root
+   Group=root
 
    [Install]
    WantedBy=multi-user.target
