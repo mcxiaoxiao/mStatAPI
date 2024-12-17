@@ -14,18 +14,18 @@
 
     Use the following command to download the main.py file:
 
-   ```bash
-   mkdir mStatAPI
+    ```bash
+    mkdir mStatAPI
     cd mStatAPI
     wget https://github.com/mcxiaoxiao/mStatAPI/releases/download/serverkit/main.py
-   ```
+    ```
 
 3. **Install required packages:**
 
    Make sure you have Python 3.7+ installed. Then, install the necessary packages using pip:
 
    ```bash
-   pip install fastapi uvicorn psutil
+    pip install fastapi uvicorn psutil
    ```
 
 ## Running the Application
