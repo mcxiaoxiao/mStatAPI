@@ -57,7 +57,7 @@ To ensure the application starts automatically on boot, you can create a systemd
 
    [Service]
    ExecStart=/usr/bin/uvicorn main:app --host 0.0.0.0 --port 8899
-   WorkingDirectory=/path/to/mStatAPI
+   WorkingDirectory=/mStatAPI
    Restart=always
    User=root
    Group=root
