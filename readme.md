@@ -10,14 +10,17 @@
 
 ## Installation
 
-1. **Clone the repository:**
+1. **Download the latest release:**
+
+    Use the following command to download the main.py file:
 
    ```bash
-   git clone <repository-url>
-   cd mStatAPI
+   mkdir mStatAPI
+    cd mStatAPI
+    wget https://github.com/mcxiaoxiao/mStatAPI/releases/download/serverkit/main.py
    ```
 
-2. **Install required packages:**
+3. **Install required packages:**
 
    Make sure you have Python 3.7+ installed. Then, install the necessary packages using pip:
 
