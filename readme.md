@@ -109,7 +109,3 @@ Example response:
   "server_receive_time": 1634567890.123
 }
 ```
-
----
-
-This README provides a comprehensive guide to setting up and running your `mStatAPI` application. Adjust paths and user information as necessary for your specific environment.
