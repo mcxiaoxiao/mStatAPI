@@ -2,6 +2,7 @@
 # mStatAPI
 ![Static Badge](https://img.shields.io/badge/Python-blue)
 ![GitHub Repo stars](https://img.shields.io/github/stars/mcxiaoxiao/chatLib)
+</br>
 `mStatAPI` is a simple application that provides system statistics such as CPU load and memory usage. It uses the `psutil` library to gather system information.
 
 ## Features
